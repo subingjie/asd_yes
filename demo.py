@@ -14,7 +14,10 @@ class Solution:
             head = head.next
         
         return result
-    
+
+class Demo:
+    def __init__(self) -> None:
+        pass
 
 if __name__ == "__main__":
     # 模拟有十个数据的链表来进行测试,数据最好无序
